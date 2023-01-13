@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BannerAltText</key>
+				<string>Aspen File Sharing</string>
+				<key>BannerIdentifier</key>
+				<string>4D9133EE-28DA-4FF6-9960-975DD23A100A</string>
+				<key>BrowserTitle</key>
+				<string>File Sharing - Aspen RapidWeaver 8 Theme</string>
+				<key>CreatedDate</key>
+				<date>2019-03-17T23:35:46Z</date>
+				<key>CustomThemeName</key>
+				<string>Aspen</string>
+				<key>ID</key>
+				<string>page4</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>aspen-a</string>
+				<key>PageTitle</key>
+				<string>File Sharing</string>
+				<key>PluginClassName</key>
+				<string>RWFileSharingPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>File Sharing</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2021-08-14T00:12:15Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								gebTE1gy5++7
+								29bJHVCruQ==
+								</data>
+								<key>Size</key>
+								<integer>8456</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page4</string>
+						<key>SiteRoot</key>
+						<string>pages/downloads</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

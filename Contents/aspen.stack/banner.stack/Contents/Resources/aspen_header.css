@@ -1,0 +1,17 @@
+%[if edit]%
+.aspen-header{
+	border: 2px solid #59ABF8;
+	border-radius: 4px;
+}
+%[endif]%
+#%id%{
+	max-width: %id=limit_format[0]%px;margin: 0 auto;
+}
+#%id%{
+	padding: %id=mob_pad[0]%px %id=mob_pad[3]%px %id=mob_pad[1]%px %id=mob_pad[2]%px;
+}
+@media screen and (min-width: %id=limit_format[1]%px){
+	#%id%{
+		padding: %id=desk_pad[0]%px %id=desk_pad[3]%px %id=desk_pad[1]%px %id=desk_pad[2]%px;
+	}
+}

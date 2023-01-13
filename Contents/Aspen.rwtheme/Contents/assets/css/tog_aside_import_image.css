@@ -1,0 +1,4 @@
+aside.theme .col_b img{
+	position: relative;
+	z-index: 2;
+}

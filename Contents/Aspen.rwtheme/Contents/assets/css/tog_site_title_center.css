@@ -1,0 +1,29 @@
+.site_title > i > i:last-child{
+	right: 0;
+}
+
+figure.theme h1.site_title,
+.social_icons{
+	text-align: center;
+}
+figure.theme .social_icons li{
+	margin-left: .5em;
+	margin-right: .5em;
+}
+@media (min-width: 770px) {
+	.main_heading.offest {
+		margin-left: 0;
+	}
+}
+
+figure.theme h1.site_title{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.social_icons{
+	max-width: 100% !important;
+}
+figure.theme .main_heading .heading_break .theme_scroll_btn{
+	margin-left: 0;
+}

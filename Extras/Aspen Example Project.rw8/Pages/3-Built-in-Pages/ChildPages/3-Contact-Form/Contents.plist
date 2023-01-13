@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BannerAltText</key>
+				<string>Aspen Contact Form</string>
+				<key>BannerIdentifier</key>
+				<string>49543CD8-4AA7-4D1B-B3FC-4436A612292D</string>
+				<key>BrowserTitle</key>
+				<string>Contact Form - Aspen RapidWeaver 8 Theme</string>
+				<key>CreatedDate</key>
+				<date>2019-03-17T23:35:33Z</date>
+				<key>CustomThemeName</key>
+				<string>Aspen</string>
+				<key>ID</key>
+				<string>page7</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Contact Form</string>
+				<key>PluginClassName</key>
+				<string>RWContactFormPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Contact Form</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2021-08-14T00:12:15Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>files/mailer.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								pq+JVsi6O4Wv
+								HRfJQ1n51w==
+								</data>
+								<key>Size</key>
+								<integer>8871</integer>
+							</dict>
+							<key>index.php</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								Ftf7zU6oBGmg
+								KRGXS7+6JA==
+								</data>
+								<key>Size</key>
+								<integer>9099</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page7</string>
+						<key>SiteRoot</key>
+						<string>pages/contact-form</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

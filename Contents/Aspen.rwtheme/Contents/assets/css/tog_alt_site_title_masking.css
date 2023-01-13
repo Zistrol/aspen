@@ -1,0 +1,12 @@
+@media (min-width: 770px) {
+	.site_title > i{
+		padding-bottom: 20px;
+		margin-bottom: -20px;
+	}
+}
+@media (max-width: 770px) {
+	.site_title > i{
+		padding-bottom: 5px;
+		margin-bottom: -5px;
+	}
+}

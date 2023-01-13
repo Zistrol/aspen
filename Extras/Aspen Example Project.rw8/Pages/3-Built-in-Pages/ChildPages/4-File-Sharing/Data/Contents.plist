@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Entries</key>
+				<array>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices blandit commodo. Suspendisse lorem turpis, mattis eu molestie non, pharetra ac elit. Nunc libero urna, facilisis et blandit vel, fermentum sit amet tellus. Nunc ultricies lectus non eros condimentum tempus.</string>
+						<key>Title</key>
+						<string>Download File 1</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://google.com</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices blandit commodo. Suspendisse lorem turpis, mattis eu molestie non, pharetra ac elit. Nunc libero urna, facilisis et blandit vel, fermentum sit amet tellus. Nunc ultricies lectus non eros condimentum tempus.</string>
+						<key>Title</key>
+						<string>Download File 2</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://google.com</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices blandit commodo. Suspendisse lorem turpis, mattis eu molestie non, pharetra ac elit. Nunc libero urna, facilisis et blandit vel, fermentum sit amet tellus. Nunc ultricies lectus non eros condimentum tempus.</string>
+						<key>Title</key>
+						<string>Download File 3</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://google.com</string>
+					</dict>
+					<dict>
+						<key>Description</key>
+						<string>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultrices blandit commodo. Suspendisse lorem turpis, mattis eu molestie non, pharetra ac elit. Nunc libero urna, facilisis et blandit vel, fermentum sit amet tellus. Nunc ultricies lectus non eros condimentum tempus.</string>
+						<key>Title</key>
+						<string>Download File 4</string>
+						<key>Type</key>
+						<integer>1</integer>
+						<key>URL</key>
+						<string>http://google.com</string>
+					</dict>
+				</array>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>RapidWeaver File Sharing Data</string>
+</dict>
+</plist>

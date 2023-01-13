@@ -1,0 +1,28 @@
+figure.theme .social_icons{
+	position: relative;
+	transform: translateY(0) !important;
+	top: 0;
+}
+figure.theme .social_icons li{
+	display: inline-block;
+	margin-right: 1em;
+}
+.social_icons{
+	max-width: %site_title_max_width%;
+}
+.social_icons ul{
+	display: inline-block;
+}
+aside.theme .inner_content{
+	max-width: 100%;
+}
+figure.theme .social_icons.vert_break:before{
+	display: none;
+}
+
+@media (max-width: %aside_breakpoint%) {
+	body aside.theme .col_a {
+		text-align: center;
+		padding-right: 0;
+	}
+}

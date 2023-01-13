@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>06BFC6B2-1306-4FE5-A70E-E0E1E307A364</string>
+				<string>0A7F0663-36AB-4280-92BC-C495A0ADAF42</string>
+				<string>0C476306-98B7-4B33-AB74-5C75D6927BE6</string>
+				<string>107A6B26-233B-4F1F-894E-80293C9966B4</string>
+				<string>17B5C1A3-4B38-4804-B3D8-513E56EAF279</string>
+				<string>1908F4B1-50DE-4551-8528-E8E3D4ECBAAF</string>
+				<string>2137123C-67D6-43F2-94B7-FC63192A54E9</string>
+				<string>24E3AA0A-A210-4E19-BCC7-E4ADE2D4770E</string>
+				<string>28234510-7D4A-4DE5-9113-7CC5C6AB3D49</string>
+				<string>2F3FF50B-72DF-4D34-9B40-9EE7D2198E6E</string>
+				<string>321D60C7-38C6-4423-93D9-CAF88B17F589</string>
+				<string>3FFB2478-DE0F-43D8-A7CE-9328557845BA</string>
+				<string>466645AD-1787-4E1A-882D-7EB151D1DA11</string>
+				<string>528430EE-D4D9-4DC7-B358-365EC7231810</string>
+				<string>54B0A4D1-D87E-4173-8665-45C2CC95AA4F</string>
+				<string>5A68703D-1C11-4E63-A6C3-12E98385F6C2</string>
+				<string>70E9BFC7-8956-4DD7-8655-57CF2C375B79</string>
+				<string>7497CC14-3B71-4F46-B97F-6C42FFBE0EE9</string>
+				<string>7702004B-BB78-4001-BF97-F7A6FAE2E46B</string>
+				<string>813E1E88-98F9-45F7-AE10-F0D5CA096F3C</string>
+				<string>826E54AA-BE0A-49FF-BCE8-B38F593D282F</string>
+				<string>8AB151C8-6D7F-40A9-84ED-006FA90139B3</string>
+				<string>8F0DB35C-C543-4805-AB40-D870B9A0E993</string>
+				<string>92ED15F9-98F9-434D-A0E6-E1925491FAEF</string>
+				<string>979FF4AF-6E63-4644-8AB9-417E89A5E2CB</string>
+				<string>9AC78ABF-73BF-4823-8986-5FDF01B50532</string>
+				<string>AA73C230-4D45-40F6-AA75-605BB30FC46A</string>
+				<string>BE252271-0431-43F9-BD15-3E11B9F7C258</string>
+				<string>CD3BE617-486C-460C-9B80-37230F417DF7</string>
+				<string>D9E3F213-C9DF-49F9-AEE8-9F22B937F35A</string>
+				<string>ECFA471C-2497-42CC-A499-182FEF1893CC</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Resources</string>
+</dict>
+</plist>

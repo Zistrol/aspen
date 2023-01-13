@@ -1,0 +1,18 @@
+header > img{
+	position: relative;
+	z-index: 2;
+}
+@media (min-width: 770px) {
+	.offest {
+		margin-left: 0;
+	}
+}
+.max_width_wrap {
+	padding-left: 7%;
+}
+figure.theme header.theme + img{
+	float: none;
+}
+@media (min-width: 770px){
+	figure.theme header.theme + img {position: static; }
+}

@@ -1,0 +1,5 @@
+aside.theme .col_b {
+	width: calc(100% - %aside_split%);
+	float: left;
+	z-index: 2;
+}

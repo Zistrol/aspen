@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<false/>
+					<key>file:///Users/nickcates/Desktop/exmaple/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel2/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel3/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel4/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel5/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/n/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/n_spire_deux/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/r/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/r3/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/royale/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/test/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/untitled%20folder/</key>
+					<true/>
+					<key>file:///Users/nickcates/Sites/</key>
+					<true/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<dict>
+						<key>%color_advisor_ball%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%color_aside_bg%</key>
+						<string>rgba(33,39,46,1.00)</string>
+						<key>%color_aside_link_hover%</key>
+						<string>rgba(255,241,196,1.00)</string>
+						<key>%color_aside_links%</key>
+						<string>rgba(225,213,174,1.00)</string>
+						<key>%color_banner_grad_bottom%</key>
+						<string>rgba(0,0,0,0.00)</string>
+						<key>%color_banner_tint%</key>
+						<string>rgba(80,78,72,0.42)</string>
+						<key>%color_main_text%</key>
+						<string>rgba(43,52,63,1.00)</string>
+						<key>%color_site_slogan_break%</key>
+						<string>rgba(196,176,121,1.00)</string>
+						<key>%color_social_icons%</key>
+						<string>rgba(231,220,187,1.00)</string>
+					</dict>
+					<key>Dashboard</key>
+					<dict/>
+					<key>Forward</key>
+					<dict/>
+					<key>Iris</key>
+					<dict/>
+					<key>Lander</key>
+					<dict/>
+					<key>Marvel</key>
+					<dict>
+						<key>%colour_banner_band_end%</key>
+						<string>rgba(226,228,240,1.00)</string>
+						<key>%colour_banner_band_start%</key>
+						<string>rgba(223,227,240,1.00)</string>
+						<key>%colour_banner_shadow%</key>
+						<string>rgba(47,50,107,0.35)</string>
+						<key>%colour_featured_social%</key>
+						<string>rgba(124,129,139,1.00)</string>
+						<key>%colour_header_fill_end%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_header_fill_start%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_header_left_rad_start%</key>
+						<string>rgba(221,125,255,0.00)</string>
+						<key>%colour_header_link%</key>
+						<string>rgba(171,182,202,1.00)</string>
+						<key>%colour_header_link_border%</key>
+						<string>rgba(81,85,95,0.64)</string>
+						<key>%colour_header_link_hover%</key>
+						<string>rgba(106,111,125,1.00)</string>
+						<key>%colour_header_right_rad_start%</key>
+						<string>rgba(160,183,214,0.00)</string>
+						<key>%colour_header_split_fill%</key>
+						<string>rgba(235,239,244,1.00)</string>
+						<key>%colour_header_split_fill_end%</key>
+						<string>rgba(242,239,245,1.00)</string>
+						<key>%colour_main_headings%</key>
+						<string>rgba(99,104,120,1.00)</string>
+						<key>%colour_main_text%</key>
+						<string>rgba(80,84,100,1.00)</string>
+						<key>%colour_menu_btn_end%</key>
+						<string>rgba(98,100,112,1.00)</string>
+						<key>%colour_menu_btn_lines%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_menu_btn_start%</key>
+						<string>rgba(134,136,152,1.00)</string>
+						<key>%colour_site_slogan%</key>
+						<string>rgba(118,124,139,1.00)</string>
+						<key>%colour_site_title%</key>
+						<string>rgba(94,99,107,1.00)</string>
+						<key>%colour_slogan_borders%</key>
+						<string>rgba(223,225,230,1.00)</string>
+					</dict>
+					<key>N Spire</key>
+					<dict/>
+					<key>N Spire Deux</key>
+					<dict>
+						<key>%colour_footer_links%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_main_bg%</key>
+						<string>#000000</string>
+						<key>%colour_main_borders%</key>
+						<string>#333333</string>
+						<key>%colour_main_headers%</key>
+						<string>#FFFFFF</string>
+						<key>%colour_main_links%</key>
+						<string>#EB212C</string>
+						<key>%colour_main_text%</key>
+						<string>#B7B7B7</string>
+						<key>%colour_nav_bg%</key>
+						<string>#000000</string>
+						<key>%colour_nav_bg_mobile%</key>
+						<string>#242424</string>
+						<key>%colour_nav_dot_current%</key>
+						<string>#FF131F</string>
+						<key>%colour_nav_dot_current_parent%</key>
+						<string>#EB212C</string>
+						<key>%colour_site_title%</key>
+						<string>#A3ADB1</string>
+					</dict>
+					<key>Offroad</key>
+					<dict/>
+					<key>Offroad Copy</key>
+					<dict/>
+					<key>Royale</key>
+					<dict>
+						<key>%colour_band_a_end%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_band_a_start%</key>
+						<string>rgba(255,255,255,0.26)</string>
+						<key>%colour_band_b_end%</key>
+						<string>rgba(255,255,255,0.00)</string>
+						<key>%colour_band_b_start%</key>
+						<string>rgba(255,255,255,0.00)</string>
+						<key>%colour_banner_band_end%</key>
+						<string>rgba(76,80,84,1.00)</string>
+						<key>%colour_banner_band_start%</key>
+						<string>rgba(137,144,151,1.00)</string>
+						<key>%colour_circle_loader%</key>
+						<string>rgba(185,196,204,1.00)</string>
+						<key>%colour_circle_loader_off%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_figure_fill%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_header_dot%</key>
+						<string>rgba(0,131,255,1.00)</string>
+						<key>%colour_header_fill%</key>
+						<string>rgba(234,239,240,1.00)</string>
+						<key>%colour_header_link%</key>
+						<string>rgba(28,39,51,0.43)</string>
+						<key>%colour_header_link_hover%</key>
+						<string>rgba(76,80,84,1.00)</string>
+						<key>%colour_main_background%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_main_headings%</key>
+						<string>rgba(76,80,84,1.00)</string>
+						<key>%colour_main_link_hover%</key>
+						<string>rgba(59,157,255,1.00)</string>
+						<key>%colour_main_links%</key>
+						<string>rgba(16,131,255,1.00)</string>
+						<key>%colour_main_text%</key>
+						<string>rgba(155,155,155,1.00)</string>
+						<key>%colour_menu_btn_end%</key>
+						<string>rgba(69,76,82,1.00)</string>
+						<key>%colour_menu_btn_ring%</key>
+						<string>rgba(142,28,164,0.34)</string>
+						<key>%colour_menu_btn_start%</key>
+						<string>rgba(101,105,117,1.00)</string>
+						<key>%colour_nav_dot%</key>
+						<string>rgba(0,131,255,1.00)</string>
+						<key>%colour_nav_email_link%</key>
+						<string>rgba(137,144,151,1.00)</string>
+						<key>%colour_nav_link_hover%</key>
+						<string>rgba(137,144,151,1.00)</string>
+						<key>%colour_nav_links%</key>
+						<string>rgba(76,80,84,1.00)</string>
+						<key>%colour_site_title%</key>
+						<string>rgba(77,80,84,1.00)</string>
+						<key>%colour_slogan_accent%</key>
+						<string>rgba(255,255,255,1.00)</string>
+					</dict>
+					<key>Voyager</key>
+					<dict/>
+					<key>Voyager Copy</key>
+					<dict/>
+					<key>Writer</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCSS</key>
+				<string>.fs1 &gt; div{
+	display: inline-block;
+	position:relative;
+	padding:20px 0;
+	text-align:center;
+	width: 105px;
+}
+
+.fs1 [class^="social-"]{
+	margin: 0 9px 10px;
+	font-size:27px;
+}
+
+.mls{
+	font-size:11px;
+	padding-top:0px;
+	display: block;
+}
+</string>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitle</key>
+				<string>&lt;i&gt;Over 70+ &lt;/i&gt; &lt;i&gt;Built-in&lt;/i&gt; &lt;i&gt;Social Icons &lt;/i&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>social-icons</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>Our social icon library that we include has grown to over 60 social networks!</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string></string>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<array>
+						<string>Footer.Center Align</string>
+						<string>Hide Toggles.Hide Cartloom Cart</string>
+						<string>Load Google Fonts.Crimson Text</string>
+						<string>Main Content - Font Family.System</string>
+						<string>Main Content.Headlines - Bold</string>
+						<string>Main Content.Headlines - H1 Center</string>
+						<string>Main Content.Headlines - H2 Center</string>
+						<string>Main Content.Headlines - H3 Center</string>
+						<string>Main Content.Headlines - H4 Center</string>
+						<string>Main Content.Headlines - Uppercase</string>
+						<string>Main Headings - Font Family.Crimson Text</string>
+						<string>Navigation - Font Family.Crimson Text</string>
+						<string>Scroll Advisor.Hide</string>
+						<string>Scroll Advisor.Show</string>
+						<string>Sidebar Bottom Angle.0</string>
+						<string>Sidebar Content.Headlines - Bold</string>
+						<string>Sidebar Content.Show</string>
+						<string>Sidebar Title.Bold</string>
+						<string>Sidebar Title.Break</string>
+						<string>Site Title - Font Family.Crimson Text</string>
+						<string>Site Title.Bold</string>
+						<string>Sub Navigation (Desktop).System Font</string>
+						<string>Theme Tools.Hide Cartloom Cart</string>
+						<string>Theme Tools.Hide Link Hover Underline</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+					</array>
+					<key>Dashboard</key>
+					<array>
+						<string>Content Heading Size.0</string>
+						<string>Main Content Text Size.0</string>
+						<string>Max Width.No Limit</string>
+						<string>Nav Text Size.0</string>
+						<string>Page Load Effect.Unfold</string>
+						<string>Shadow Layers.100%</string>
+						<string>Sidebar Text Size.0</string>
+						<string>Sidebar Title Size.0</string>
+						<string>Sidebar Top Spacing (Desktop).No Spacing</string>
+						<string>Site Title Size.0</string>
+						<string>Theme Tools.Load remote Font Awesome</string>
+						<string>Theme Tools.Load remote Social Icons</string>
+					</array>
+					<key>Forward</key>
+					<array>
+						<string>Banner Options.Full Width</string>
+						<string>General Options.Less Footer Padding</string>
+						<string>Navigation Options.Mouse Out Close</string>
+						<string>Site Content Size.0</string>
+						<string>Site Heading Bottom.0</string>
+						<string>Site Heading Options.Italic</string>
+						<string>Site Heading Options.Serif</string>
+						<string>Site Heading Size.0</string>
+						<string>Site Slogan Options.Italic</string>
+						<string>Site Slogan Options.Serif</string>
+						<string>Site Slogan Size.0</string>
+						<string>Site Title Size.0</string>
+						<string>Version &amp; Manual.Hide</string>
+					</array>
+					<key>Marvel</key>
+					<array>
+						<string>Banner - Type.Drag / Drop Image</string>
+						<string>Featured Nav - Font Size.1 +</string>
+						<string>Featured Nav - Letter Spacing.0</string>
+						<string>Header - Bottom Angle.5 deg -</string>
+						<string>Header - Content.Site Slogan + Social Icons</string>
+						<string>Header - Font Family.Montserrat</string>
+						<string>Header - Max Width.1100px</string>
+						<string>Main Content - Font Family.Open Sans</string>
+						<string>Main Content - Font Size.1 +</string>
+						<string>Main Content - Heading Font Family.Montserrat</string>
+						<string>Main Content - Heading Font Size.0</string>
+						<string>Main Content - Heading Font Weight.500</string>
+						<string>Main Content - Line Height.0</string>
+						<string>Main Content - Max Width.880px</string>
+						<string>Radial Highlights - Offset.200px</string>
+						<string>Sidebar Content - Position.Right</string>
+						<string>Site Slogan - Font Size.1 +</string>
+						<string>Site Slogan - Font Weight.400</string>
+						<string>Site Title - Desktop Font Size.2 +</string>
+						<string>Site Title - Font Weight.600</string>
+						<string>Site Title - Letter Spacing.1 +</string>
+						<string>Site Title - Mobile Font Size.1 +</string>
+						<string>Slide Out Nav - Font Size.1 +</string>
+						<string>Theme Tools.Animate Page Load</string>
+						<string>Theme Tools.Header Split Full Angle</string>
+						<string>Theme Tools.Hide Breadcrumb</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+						<string>Theme Tools.Menu Button - Black Lines</string>
+						<string>Theme Tools.Menu Button Dark Lines</string>
+						<string>Theme Tools.Reveal Current Nav Path</string>
+						<string>Theme Tools.Show Cartloom Viewcart</string>
+						<string>Theme Tools.Site Title Uppercase</string>
+					</array>
+					<key>N Spire</key>
+					<array>
+						<string>Background.1</string>
+						<string>Banner Image.x (slideshow)</string>
+						<string>Banner Size.No Banner</string>
+						<string>Menu List Style.01, 02, 03</string>
+						<string>Tools.N Spire 1.5.7</string>
+					</array>
+					<key>N Spire Deux</key>
+					<array>
+						<string>Background Image.Image 3</string>
+						<string>Footer Font Weight.500</string>
+						<string>Main Content Background Opacity %.75</string>
+						<string>Main Content Font Size.1 +</string>
+						<string>Main Content Heading Font Weight.500</string>
+						<string>Max Site Width.1000</string>
+						<string>Navigation Background Opacity %.75</string>
+						<string>Navigation Font Size.0</string>
+						<string>Sidebar Font Size.1 +</string>
+						<string>Sidebar Mobile Placement.Above Main Content</string>
+						<string>Sidebar Title Font Size.0</string>
+						<string>Sidebar Title Font Weight.400</string>
+						<string>Site Slogan Font Weight.300</string>
+						<string>Site Title Font Size (Desktop).0</string>
+						<string>Site Title Font Size (Phone).0</string>
+						<string>Site Title Font Size (Tablet).0</string>
+						<string>Site Title Font Weight.500</string>
+						<string>Site Title Letter Spacing (Desktop).0</string>
+						<string>Theme Tools.Hide Main Content Shadow</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+						<string>Theme Tools.Show Full Nav Path</string>
+						<string>Theme Tools.Sticky Site Title (Desktop)</string>
+						<string>Uppercase Text.Breadcrumb</string>
+						<string>Uppercase Text.Footer</string>
+						<string>Uppercase Text.Navigation</string>
+						<string>Uppercase Text.Site Title</string>
+					</array>
+					<key>Offroad Copy</key>
+					<array>
+						<string>Background overlay.80% opacity</string>
+						<string>Background.Use background image</string>
+						<string>Blur background on scroll.Blur</string>
+						<string>Desktop navigation.Main colour</string>
+						<string>Global colours.Main</string>
+						<string>Photo album.Show captions</string>
+						<string>Sidebar.Right</string>
+						<string>Site description.Visible</string>
+						<string>Site title.Show site title</string>
+					</array>
+					<key>Royale</key>
+					<array>
+						<string>Banner - Animation.Fade In</string>
+						<string>Banner - Position.Offset + Shadow 40%</string>
+						<string>Banner - Slogan Size.0</string>
+						<string>Banner - Slogan Style.Hidden</string>
+						<string>Banner - Type.Drag / Drop Image</string>
+						<string>Featured Nav - Font Size.0</string>
+						<string>Featured Nav - Text Size.0</string>
+						<string>Header - Font Family.Raleway</string>
+						<string>Header - Max Width.1200px</string>
+						<string>Main Content - Font Family.Open Sans</string>
+						<string>Main Content - Font Size.1 +</string>
+						<string>Main Content - Heading Font Family.Raleway</string>
+						<string>Main Content - Heading Font Weight.400</string>
+						<string>Main Content - Heading Size.0</string>
+						<string>Main Content - Heading Weight.600</string>
+						<string>Main Content - Max Width.820px</string>
+						<string>Sidebar Content - Position.Right</string>
+						<string>Site Title - Font Size.2 +</string>
+						<string>Site Title - Font Weight.600</string>
+						<string>Slide Out Nav - Font Size.1 +</string>
+						<string>Slide Out Nav - Text Size.1 -</string>
+						<string>Theme Tools.Hide Banner Loader Bar</string>
+						<string>Theme Tools.Hide Banner Progress Bar</string>
+						<string>Theme Tools.Hide Breadcrumb</string>
+						<string>Theme Tools.Hide Contact Link (Desktop)</string>
+						<string>Theme Tools.Load Repsonsive Tools</string>
+						<string>Theme Tools.Reveal Current Nav Path</string>
+					</array>
+					<key>Voyager</key>
+					<array>
+						<string>Banner Height.540 px</string>
+						<string>Body Text.Open Sans</string>
+						<string>Breadcrumb Trail.Translucent White Presets</string>
+						<string>Content Width.1,170px</string>
+						<string>Headers.Fjalla One</string>
+						<string>Navigation Overlay.Translucent Black</string>
+						<string>Sidebar.Right-hand Side</string>
+						<string>Site Slogan.Fjalla One</string>
+						<string>Site Title Divider.Light</string>
+						<string>Site Title.Fjalla One</string>
+						<string>Theme Toggles.Show Site Title in Navigation Overlay</string>
+						<string>Theme Toggles.Uppercase Site Title</string>
+						<string>Theme Toggles.Uppercase Slogan</string>
+					</array>
+					<key>Voyager Copy</key>
+					<array>
+						<string>Banner Height.540 px</string>
+						<string>Body Text.Open Sans</string>
+						<string>Breadcrumb Trail.Translucent White Presets</string>
+						<string>Content Width.1,170px</string>
+						<string>Headers.Fjalla One</string>
+						<string>Navigation Overlay.Translucent Black</string>
+						<string>Sidebar.Right-hand Side</string>
+						<string>Site Slogan.Fjalla One</string>
+						<string>Site Title Divider.Light</string>
+						<string>Site Title.Fjalla One</string>
+						<string>Theme Toggles.Show Site Title in Navigation Overlay</string>
+						<string>Theme Toggles.Uppercase Site Title</string>
+						<string>Theme Toggles.Uppercase Slogan</string>
+					</array>
+					<key>Writer</key>
+					<array>
+						<string>Content Heading Size.1 -</string>
+						<string>Content Line Height.0</string>
+						<string>Content Text Size.0</string>
+						<string>Header Bottom Padding.18%</string>
+						<string>Header Color Opacity.0.8</string>
+						<string>Header Image.Stock 6</string>
+						<string>Header Nav Bar Opacity.1.0</string>
+						<string>Header Top Padding.13%</string>
+						<string>Max Site Width.1000px</string>
+						<string>Navigation Font Size.1 -</string>
+						<string>Sidebar Position.Right 250px</string>
+						<string>Sidebar Text Size.1 -</string>
+						<string>Sidebar Title Size.1 -</string>
+						<string>Site Logo Max Width.200px</string>
+						<string>Site Logo Min Width.150px</string>
+						<string>Site Slogan Font Size.0</string>
+						<string>Site Slogan Max Width.700px</string>
+						<string>Site Title Font Size.0</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%advisor_pad_bottom%</key>
+					<string>40</string>
+					<key>%aside_font_size%</key>
+					<string>17</string>
+					<key>%aside_max_width%</key>
+					<string>950</string>
+					<key>%aside_pad_bottom%</key>
+					<string>50</string>
+					<key>%aside_pad_bottom_mobile%</key>
+					<string>50</string>
+					<key>%aside_pad_right_mobile%</key>
+					<string>60</string>
+					<key>%aside_pad_top%</key>
+					<string>15</string>
+					<key>%banner_bottom_padding%</key>
+					<string>0</string>
+					<key>%banner_bottom_padding_mobile%</key>
+					<string>0</string>
+					<key>%copyright_font_size%</key>
+					<string>22</string>
+					<key>%copyright_offset%</key>
+					<string>0</string>
+					<key>%footer-opacity%</key>
+					<string>6</string>
+					<key>%footer_font_size%</key>
+					<string>16</string>
+					<key>%footer_pad_bottom%</key>
+					<string>30</string>
+					<key>%footer_pad_top%</key>
+					<string>30</string>
+					<key>%main_content_font_size%</key>
+					<string>16</string>
+					<key>%main_content_max_width%</key>
+					<string>950</string>
+					<key>%main_content_pad_right%</key>
+					<string>0</string>
+					<key>%main_content_pad_top%</key>
+					<string>60</string>
+					<key>%nav_font_size%</key>
+					<string>22</string>
+					<key>%site_logo_desk_max_width%</key>
+					<string>85</string>
+					<key>%site_logo_mob_max_width%</key>
+					<string>75</string>
+					<key>%site_slogan_bottom_padding%</key>
+					<string>22</string>
+					<key>%site_title_bottom_spacing%</key>
+					<string>8</string>
+					<key>%site_title_desk_font_size%</key>
+					<string>7</string>
+					<key>%site_title_letter_spacing%</key>
+					<string>2</string>
+					<key>%site_title_line_height%</key>
+					<string>1</string>
+					<key>%site_title_max_width%</key>
+					<string>700</string>
+					<key>%site_title_mob_font_size%</key>
+					<string>9</string>
+					<key>%site_title_top_spacing%</key>
+					<string>10</string>
+					<key>%site_width%</key>
+					<string>1000</string>
+					<key>%social_icon_size%</key>
+					<string>28</string>
+					<key>%social_icons_offset%</key>
+					<string>-50</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

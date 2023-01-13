@@ -1,0 +1,7 @@
+.site_slogan:after{
+	width: 35px;
+	height: 5px;
+	content: '';
+	display: block;
+	margin: 25px 0 0;
+}

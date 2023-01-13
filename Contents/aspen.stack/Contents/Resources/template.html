@@ -1,0 +1,16 @@
+%[if edit]%<div style="text-align: center;font: 200 16px avenir;padding: 5px 0;color: #59ABF8"><br>⸻ &nbsp; <span style="font-size: 12px; letter-spacing: 1.5px;font-weight: bold;">SPLIT / START</span> &nbsp; ⸻</div>%[endif]%
+
+%[if !edit]%</div></div></div><!-- Split IN -->%[endif]%
+<div id="%id%" class="aspen_split">
+	<div class="bg-wrap">
+		<div class="bg" style="background-image: url(%id=imgFull%);"></div>
+	</div>
+	<div class="max_width_wrap_content" data-pad="%id=theme_padding%" data-width="%id=theme_width%">
+		%slice%
+	</div>
+</div>
+<!-- Split 0UT -->
+%[if edit]%<div style="text-align: center;font: 200 16px avenir;padding: 5px 0;color: #59ABF8">⸻ &nbsp; <span style="font-size: 12px; letter-spacing: 1.5px;font-weight: bold;">SPLIT / END</span> &nbsp; ⸻</div>%[endif]%
+
+<div class="max_width_wrap_content">
+%[if edit]%</div>%[endif]%

@@ -1,0 +1,5 @@
+figure.theme header.theme + img.brand_link{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+}

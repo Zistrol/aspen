@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BannerAltText</key>
+				<string>Built in Social Icons</string>
+				<key>BannerIdentifier</key>
+				<string>EE8D6F1D-39D2-4631-97B3-ADB2B6479324</string>
+				<key>BrowserTitle</key>
+				<string>Social Icons - Marvel RapidWeaver 7 Theme</string>
+				<key>CreatedDate</key>
+				<date>2015-12-10T01:20:15Z</date>
+				<key>CustomThemeName</key>
+				<string>Aspen</string>
+				<key>ID</key>
+				<string>page6</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Zen</string>
+				<key>PageTitle</key>
+				<string>Social Icons</string>
+				<key>PluginClassName</key>
+				<string>RWStyledPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Styled Text</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2021-08-14T00:12:15Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								9NgqTq48+QXq
+								lPv4bKHrkA==
+								</data>
+								<key>Size</key>
+								<integer>13225</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page6</string>
+						<key>SiteRoot</key>
+						<string>tools/social-icons</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Data.archive</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

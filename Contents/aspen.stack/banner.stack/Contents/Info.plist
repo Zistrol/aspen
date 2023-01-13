@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.nickcatesdesign.stacks.aspen_banner</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>RWAddonAuthor</key>
+	<string>Nick Cates Design</string>
+	<key>RWAddonManagerIconAsset</key>
+	<string>icon</string>
+	<key>RWAddonSupportURL</key>
+	<string>http://nickcatesdesign.com/rapidweaver/support/</string>
+	<key>customItems</key>
+	<array/>
+	<key>group</key>
+	<string>Nick Cates Design</string>
+	<key>icon</key>
+	<string>icon</string>
+	<key>inline</key>
+	<true/>
+	<key>minAPIVersion</key>
+	<integer>3</integer>
+	<key>subtitle</key>
+	<string>Import into the Aspen theme banner. Only use 1 per page.</string>
+	<key>tags</key>
+	<array>
+		<string>Aspen Theme</string>
+		<string>Theme</string>
+		<string>Aspen</string>
+	</array>
+	<key>templates</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>template.html</string>
+			<key>type</key>
+			<string>html</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>aspen_header.css</string>
+			<key>type</key>
+			<string>css</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Banner →</string>
+</dict>
+</plist>

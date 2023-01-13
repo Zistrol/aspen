@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<false/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<dict>
+						<key>%color_aside_bg%</key>
+						<string>rgba(42,95,180,1.00)</string>
+						<key>%color_aside_link_hover%</key>
+						<string>rgba(216,255,14,1.00)</string>
+						<key>%color_banner_grad_bottom%</key>
+						<string>rgba(0,0,0,0.00)</string>
+						<key>%color_banner_grad_top%</key>
+						<string>rgba(0,0,0,0.25)</string>
+						<key>%color_banner_tint%</key>
+						<string>rgba(68,68,68,0.44)</string>
+						<key>%color_main_link_hover%</key>
+						<string>rgba(148,90,255,1.00)</string>
+						<key>%color_main_links%</key>
+						<string>rgba(44,104,241,1.00)</string>
+						<key>%color_section_two_bg%</key>
+						<string>rgb(255,255,255)</string>
+						<key>%color_section_two_text%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%color_site_slogan%</key>
+						<string>rgba(247,247,247,1.00)</string>
+					</dict>
+					<key>Offroad</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitle</key>
+				<string>&lt;i&gt;File&lt;/i&gt; &lt;i&gt;Sharing&lt;/i&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>downloads</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginHasPerformedMigrationToSharedData</key>
+				<true/>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string></string>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<array>
+						<string>Content Headlings.Bold</string>
+						<string>Content Headlings.Uppercase</string>
+						<string>Footer.Center Align</string>
+						<string>Hide Toggles.Hide Cartloom Cart</string>
+						<string>Hide Toggles.Hide Link Hover Underline</string>
+						<string>Hide Toggles.Hide Mobile Header Contact Info</string>
+						<string>Load Google Fonts.Fira Sans Condensed</string>
+						<string>Main Content - Font Family.System</string>
+						<string>Main Content.Headlines - Bold</string>
+						<string>Main Content.Headlines - H2 Center</string>
+						<string>Main Headings - Font Family.System</string>
+						<string>Navigation - Font Family.Fira Sans Condensed</string>
+						<string>Navigation.Bold</string>
+						<string>Navigation.Uppercase</string>
+						<string>Scroll Advisor.Outline Light</string>
+						<string>Sidebar Bottom Angle.0</string>
+						<string>Sidebar Content.Headlines - Bold</string>
+						<string>Sidebar Content.Show</string>
+						<string>Sidebar Slogan.Bold</string>
+						<string>Sidebar Slogan.Break</string>
+						<string>Sidebar Title.Bold</string>
+						<string>Site Footer.Center Align</string>
+						<string>Site Slogan.Bold</string>
+						<string>Site Slogan.Break</string>
+						<string>Site Title - Font Family.System</string>
+						<string>Site Title.Bold</string>
+						<string>Sub Navigation.Center Align</string>
+						<string>Sub Navigation.System Font</string>
+						<string>Theme Tools.Alternative Site Title Masking</string>
+						<string>Theme Tools.Fixed Menu Button</string>
+						<string>Theme Tools.Hide Banner Image</string>
+						<string>Theme Tools.Hide Cartloom Cart</string>
+						<string>Theme Tools.Hide Link Hover Underline</string>
+						<string>Theme Tools.Hide Main Nav Hover Line</string>
+						<string>Theme Tools.Hide Mobile Header Contact Info</string>
+						<string>Theme Tools.Hide Sub Nav Hover Lines</string>
+						<string>Theme Tools.Horizonal Social Icons</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%aside_breakpoint%</key>
+					<string>900</string>
+					<key>%aside_font_size%</key>
+					<string>17</string>
+					<key>%aside_headings_bottom_margin%</key>
+					<string>1</string>
+					<key>%aside_headings_font_size%</key>
+					<string>3</string>
+					<key>%aside_line_height%</key>
+					<string>6</string>
+					<key>%aside_max_width%</key>
+					<string>900</string>
+					<key>%aside_offset%</key>
+					<string>0</string>
+					<key>%aside_pad_bottom%</key>
+					<string>40</string>
+					<key>%aside_pad_top%</key>
+					<string>40</string>
+					<key>%aside_split%</key>
+					<string>47</string>
+					<key>%banner_bottom_padding%</key>
+					<string>20</string>
+					<key>%banner_bottom_padding_mobile%</key>
+					<string>20</string>
+					<key>%banner_tint%</key>
+					<string>25</string>
+					<key>%copyright_font_size%</key>
+					<string>20</string>
+					<key>%copyright_offset%</key>
+					<string>0</string>
+					<key>%footer-opacity%</key>
+					<string>9</string>
+					<key>%footer_font_size%</key>
+					<string>17</string>
+					<key>%footer_pad_bottom%</key>
+					<string>30</string>
+					<key>%footer_pad_top%</key>
+					<string>30</string>
+					<key>%main_content_font_size%</key>
+					<string>15</string>
+					<key>%main_content_line_height%</key>
+					<string>5</string>
+					<key>%main_content_max_width%</key>
+					<string>825</string>
+					<key>%main_content_pad_bottom%</key>
+					<string>60</string>
+					<key>%main_headings_bottom_margin%</key>
+					<string>3</string>
+					<key>%main_headings_font_size%</key>
+					<string>5</string>
+					<key>%nav_font_size%</key>
+					<string>21</string>
+					<key>%offset_scroll_advisor%</key>
+					<string>20</string>
+					<key>%site_logo_desk_max_width%</key>
+					<string>85</string>
+					<key>%site_logo_mob_max_width%</key>
+					<string>75</string>
+					<key>%site_slogan_bottom_padding%</key>
+					<string>0</string>
+					<key>%site_slogan_desk_font_size%</key>
+					<string>30</string>
+					<key>%site_slogan_letter_spacing%</key>
+					<string>6</string>
+					<key>%site_slogan_top_padding%</key>
+					<string>0</string>
+					<key>%site_title_bottom_spacing%</key>
+					<string>5</string>
+					<key>%site_title_desk_font_size%</key>
+					<string>8</string>
+					<key>%site_title_letter_spacing%</key>
+					<string>5</string>
+					<key>%site_title_line_height%</key>
+					<string>0</string>
+					<key>%site_title_max_width%</key>
+					<string>800</string>
+					<key>%site_title_mob_font_size%</key>
+					<string>9</string>
+					<key>%site_title_top_spacing%</key>
+					<string>11</string>
+					<key>%site_width%</key>
+					<string>1200</string>
+					<key>%social_icon_size%</key>
+					<string>32</string>
+					<key>%social_icons_offset%</key>
+					<string>100</string>
+					<key>%subnav_font_size%</key>
+					<string>17</string>
+					<key>%subnav_radius%</key>
+					<string>3</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

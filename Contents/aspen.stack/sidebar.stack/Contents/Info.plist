@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.nickcatesdesign.stacks.aspen_sidebar</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>RWAddonAuthor</key>
+	<string>Nick Cates Design</string>
+	<key>RWAddonManagerIconAsset</key>
+	<string>icon</string>
+	<key>RWAddonSupportURL</key>
+	<string>http://nickcatesdesign.com/rapidweaver/support/</string>
+	<key>customItems</key>
+	<array>
+		<dict>
+			<key>default</key>
+			<array>
+				<integer>1000</integer>
+				<integer>770</integer>
+			</array>
+			<key>group</key>
+			<string>Container</string>
+			<key>id</key>
+			<string>limit_format</string>
+			<key>subtitles</key>
+			<array>
+				<string>Max-Width (px)</string>
+				<string>Mobile Break</string>
+			</array>
+			<key>title</key>
+			<string>Settings</string>
+			<key>type</key>
+			<string>number-2</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>group</key>
+			<string>Container</string>
+			<key>id</key>
+			<string>desk_pad</string>
+			<key>subtitles</key>
+			<array>
+				<string>Top</string>
+				<string>Bottom</string>
+				<string>Left</string>
+				<string>Right</string>
+			</array>
+			<key>title</key>
+			<string>Desk Padding</string>
+			<key>type</key>
+			<string>number-4</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>group</key>
+			<string>Container</string>
+			<key>id</key>
+			<string>mob_pad</string>
+			<key>subtitles</key>
+			<array>
+				<string>Top</string>
+				<string>Bottom</string>
+				<string>Left</string>
+				<string>Right</string>
+			</array>
+			<key>title</key>
+			<string>Mobile Padding</string>
+			<key>type</key>
+			<string>number-4</string>
+		</dict>
+	</array>
+	<key>group</key>
+	<string>Nick Cates Design</string>
+	<key>icon</key>
+	<string>icon</string>
+	<key>inline</key>
+	<true/>
+	<key>minAPIVersion</key>
+	<integer>3</integer>
+	<key>subtitle</key>
+	<string>Import into the Aspen theme sidebar. Only use 1 per page.</string>
+	<key>tags</key>
+	<array>
+		<string>Aspen Theme</string>
+		<string>Theme</string>
+		<string>Aspen</string>
+	</array>
+	<key>templates</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>template.html</string>
+			<key>type</key>
+			<string>html</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>aspen_sidebar.css</string>
+			<key>type</key>
+			<string>css</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Sidebar →</string>
+</dict>
+</plist>

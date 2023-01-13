@@ -1,0 +1,8 @@
+figure.theme{pointer-events: auto !important;}
+figure.theme.z_top {z-index: 2;}
+#config_theme{padding-bottom: 2px;}
+
+figure.theme video~img,
+figure.theme .fluid-width-video-wrapper ~ img{
+	display: none;
+}

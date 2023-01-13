@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>ChangedStatuses</key>
+				<dict>
+					<key>default</key>
+					<true/>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<false/>
+					<key>file:///Users/nickcates/Desktop/exmaple/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel2/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel3/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel4/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/marvel5/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/n/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/n_spire_deux/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/r/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/r3/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/royale/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/test/</key>
+					<true/>
+					<key>file:///Users/nickcates/Desktop/untitled%20folder/</key>
+					<true/>
+					<key>file:///Users/nickcates/Sites/</key>
+					<true/>
+				</dict>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<dict>
+						<key>%color_aside_bg%</key>
+						<string>rgba(14,14,14,1.00)</string>
+						<key>%color_banner_grad_bottom%</key>
+						<string>rgba(0,0,0,1.00)</string>
+						<key>%color_banner_grad_top%</key>
+						<string>rgba(0,0,0,0.27)</string>
+						<key>%color_banner_tint%</key>
+						<string>rgba(108,108,108,0.15)</string>
+						<key>%color_contact_info%</key>
+						<string>rgba(253,253,253,0.71)</string>
+						<key>%color_subnav_text%</key>
+						<string>rgba(32,38,47,1.00)</string>
+					</dict>
+					<key>Dashboard</key>
+					<dict/>
+					<key>Forward</key>
+					<dict/>
+					<key>Iris</key>
+					<dict/>
+					<key>Lander</key>
+					<dict/>
+					<key>Marvel</key>
+					<dict>
+						<key>%colour_banner_band_end%</key>
+						<string>rgba(180,189,105,0.54)</string>
+						<key>%colour_banner_band_start%</key>
+						<string>rgba(209,182,158,0.64)</string>
+						<key>%colour_banner_shadow%</key>
+						<string>rgba(0,0,0,0.80)</string>
+						<key>%colour_featured_social%</key>
+						<string>rgba(110,124,102,1.00)</string>
+						<key>%colour_header_fill_end%</key>
+						<string>rgba(239,237,224,1.00)</string>
+						<key>%colour_header_fill_start%</key>
+						<string>rgba(255,255,255,1.00)</string>
+						<key>%colour_header_left_rad_end%</key>
+						<string>rgba(49,61,49,0.00)</string>
+						<key>%colour_header_left_rad_start%</key>
+						<string>rgba(127,79,38,0.00)</string>
+						<key>%colour_header_link%</key>
+						<string>rgba(132,139,128,1.00)</string>
+						<key>%colour_header_link_border%</key>
+						<string>rgba(152,132,87,0.73)</string>
+						<key>%colour_header_link_hover%</key>
+						<string>rgba(114,98,79,1.00)</string>
+						<key>%colour_header_right_rad_end%</key>
+						<string>rgba(49,61,49,0.00)</string>
+						<key>%colour_header_right_rad_start%</key>
+						<string>rgba(104,45,75,0.00)</string>
+						<key>%colour_header_split_fill%</key>
+						<string>rgba(67,77,67,1.00)</string>
+						<key>%colour_header_split_fill_end%</key>
+						<string>rgba(70,78,56,1.00)</string>
+						<key>%colour_main_link_hover%</key>
+						<string>rgba(99,151,97,1.00)</string>
+						<key>%colour_main_links%</key>
+						<string>rgba(82,125,80,1.00)</string>
+						<key>%colour_menu_btn_end%</key>
+						<string>rgba(85,74,61,1.00)</string>
+						<key>%colour_menu_btn_start%</key>
+						<string>rgba(126,111,92,1.00)</string>
+						<key>%colour_nav_dot%</key>
+						<string>rgba(96,147,95,1.00)</string>
+						<key>%colour_nav_email_link%</key>
+						<string>rgba(82,125,81,1.00)</string>
+						<key>%colour_site_slogan%</key>
+						<string>rgba(255,254,237,1.00)</string>
+						<key>%colour_site_title%</key>
+						<string>rgba(87,98,83,1.00)</string>
+						<key>%colour_slogan_borders%</key>
+						<string>rgba(128,127,101,0.70)</string>
+					</dict>
+					<key>N Spire</key>
+					<dict/>
+					<key>N Spire Deux</key>
+					<dict>
+						<key>%colour_footer_bg%</key>
+						<string>#807D75</string>
+						<key>%colour_footer_text%</key>
+						<string>#D6D4C2</string>
+						<key>%colour_main_borders%</key>
+						<string>#CECAAF</string>
+						<key>%colour_main_headers%</key>
+						<string>#4C585C</string>
+						<key>%colour_main_link_hover%</key>
+						<string>#A99E7A</string>
+						<key>%colour_main_links%</key>
+						<string>#8F8667</string>
+						<key>%colour_nav_count%</key>
+						<string>#D0E8E9</string>
+						<key>%colour_nav_dot_current%</key>
+						<string>#FFCC66</string>
+						<key>%colour_nav_dot_current_parent%</key>
+						<string>#804000</string>
+						<key>%colour_nav_dot_hover%</key>
+						<string>#FFFF66</string>
+						<key>%colour_nav_dot_selected%</key>
+						<string>#FFCC66</string>
+						<key>%colour_nav_sub_links%</key>
+						<string>#ACADA7</string>
+						<key>%colour_sidebar%</key>
+						<string>#D7D8CD</string>
+						<key>%colour_sidebar_bg%</key>
+						<string>#3C3B3A</string>
+						<key>%colour_sidebar_headings%</key>
+						<string>#FFFDE5</string>
+						<key>%colour_sidebar_links%</key>
+						<string>#D0CDCA</string>
+						<key>%colour_site_title%</key>
+						<string>#F1EFCC</string>
+					</dict>
+					<key>Offroad</key>
+					<dict/>
+					<key>Offroad Copy</key>
+					<dict/>
+					<key>Royale</key>
+					<dict>
+						<key>%colour_band_a_end%</key>
+						<string>rgba(34,35,43,0.08)</string>
+						<key>%colour_band_a_start%</key>
+						<string>rgba(0,0,0,0.33)</string>
+						<key>%colour_band_b_end%</key>
+						<string>rgba(95,255,62,0.11)</string>
+						<key>%colour_band_b_start%</key>
+						<string>rgba(253,177,46,0.20)</string>
+						<key>%colour_banner_band_end%</key>
+						<string>rgba(166,179,93,1.00)</string>
+						<key>%colour_banner_band_start%</key>
+						<string>rgba(107,153,133,1.00)</string>
+						<key>%colour_circle_loader%</key>
+						<string>rgba(124,138,110,1.00)</string>
+						<key>%colour_circle_loader_off%</key>
+						<string>rgba(107,153,133,0.16)</string>
+						<key>%colour_header_dot%</key>
+						<string>rgba(204,85,27,1.00)</string>
+						<key>%colour_header_fill%</key>
+						<string>rgba(51,51,51,1.00)</string>
+						<key>%colour_main_links%</key>
+						<string>rgba(111,137,84,1.00)</string>
+						<key>%colour_menu_btn_end%</key>
+						<string>rgba(91,126,54,1.00)</string>
+						<key>%colour_menu_btn_ring%</key>
+						<string>rgba(159,140,104,0.49)</string>
+						<key>%colour_menu_btn_start%</key>
+						<string>rgba(138,170,104,1.00)</string>
+						<key>%colour_nav_dot%</key>
+						<string>rgba(239,173,34,1.00)</string>
+						<key>%colour_nav_email_link%</key>
+						<string>rgba(107,153,133,1.00)</string>
+						<key>%colour_site_borders%</key>
+						<string>rgba(221,221,221,1.00)</string>
+						<key>%colour_slogan_accent%</key>
+						<string>rgba(162,139,117,1.00)</string>
+					</dict>
+					<key>Voyager</key>
+					<dict/>
+					<key>Voyager Copy</key>
+					<dict/>
+					<key>Writer</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitle</key>
+				<string>&lt;i&gt;Built-in&lt;/i&gt; &lt;i&gt;RapidWeaver&lt;/i&gt; &lt;i&gt;Blog&lt;/i&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<true/>
+				<key>CustomSlogan</key>
+				<string>Great Adventure Blog</string>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string></string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>blog</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>Hidden</key>
+				<false/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>MetaDescription</key>
+				<string>An example blog styled with N Spire Deux</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>PluginExtension</key>
+				<string>html</string>
+				<key>RobotsShouldFollowLinks</key>
+				<true/>
+				<key>RobotsShouldIndexPage</key>
+				<true/>
+				<key>ShouldEnableRobotTags</key>
+				<true/>
+				<key>ShouldEnableSocialTags</key>
+				<true/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>SidebarTitle</key>
+				<string>Blog with Aspen</string>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Aspen</key>
+					<array>
+						<string>Footer.Center Align</string>
+						<string>Hide Toggles.Hide Cartloom Cart</string>
+						<string>Load Google Fonts.Fira Sans Condensed</string>
+						<string>Load Google Fonts.Rubik</string>
+						<string>Main Content - Font Family.System</string>
+						<string>Main Content.Headlines - Bold</string>
+						<string>Main Headings - Font Family.Rubik</string>
+						<string>Navigation - Font Family.Fira Sans Condensed</string>
+						<string>Navigation.Bold</string>
+						<string>Navigation.Uppercase</string>
+						<string>Scroll Advisor.Hide</string>
+						<string>Sidebar Bottom Angle.- 4%</string>
+						<string>Sidebar Content.Headlines - Bold</string>
+						<string>Sidebar Content.Import Image Column</string>
+						<string>Sidebar Content.Show</string>
+						<string>Sidebar Content.Split</string>
+						<string>Sidebar Content.Split Image Right</string>
+						<string>Sidebar Title.Bold</string>
+						<string>Site Title - Font Family.Rubik</string>
+						<string>Site Title.Bold</string>
+						<string>Theme Tools.Hide Cartloom Cart</string>
+						<string>Theme Tools.Hide Link Hover Underline</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+						<string>Theme Tools.Logo Above Site Title</string>
+					</array>
+					<key>Dashboard</key>
+					<array>
+						<string>Content Heading Size.0</string>
+						<string>Main Content Text Size.0</string>
+						<string>Max Width.No Limit</string>
+						<string>Nav Text Size.0</string>
+						<string>Page Load Effect.Unfold</string>
+						<string>Shadow Layers.100%</string>
+						<string>Sidebar Text Size.0</string>
+						<string>Sidebar Title Size.0</string>
+						<string>Sidebar Top Spacing (Desktop).No Spacing</string>
+						<string>Site Title Size.0</string>
+						<string>Theme Tools.Load remote Font Awesome</string>
+						<string>Theme Tools.Load remote Social Icons</string>
+					</array>
+					<key>Forward</key>
+					<array>
+						<string>Banner Options.Full Width</string>
+						<string>General Options.Less Footer Padding</string>
+						<string>Navigation Options.Mouse Out Close</string>
+						<string>Site Content Size.0</string>
+						<string>Site Heading Bottom.0</string>
+						<string>Site Heading Options.Italic</string>
+						<string>Site Heading Options.Serif</string>
+						<string>Site Heading Size.0</string>
+						<string>Site Slogan Options.Italic</string>
+						<string>Site Slogan Options.Serif</string>
+						<string>Site Slogan Size.0</string>
+						<string>Site Title Size.0</string>
+						<string>Version &amp; Manual.Hide</string>
+					</array>
+					<key>Marvel</key>
+					<array>
+						<string>Banner - Type.HTML5 or Embed Video</string>
+						<string>Featured Nav - Font Size.0</string>
+						<string>Featured Nav - Letter Spacing.2 +</string>
+						<string>Header - Bottom Angle.5 deg -</string>
+						<string>Header - Content.Site Slogan + Social Icons</string>
+						<string>Header - Font Family.Montserrat</string>
+						<string>Header - Max Width.1100px</string>
+						<string>Main Content - Font Family.Open Sans</string>
+						<string>Main Content - Font Size.0</string>
+						<string>Main Content - Heading Font Family.Montserrat</string>
+						<string>Main Content - Heading Font Size.0</string>
+						<string>Main Content - Heading Font Weight.500</string>
+						<string>Main Content - Line Height.0</string>
+						<string>Main Content - Max Width.880px</string>
+						<string>Radial Highlights - Offset.200px</string>
+						<string>Sidebar Content - Position.Left</string>
+						<string>Site Slogan - Font Size.3 +</string>
+						<string>Site Slogan - Font Weight.600</string>
+						<string>Site Title - Desktop Font Size.2 +</string>
+						<string>Site Title - Font Weight.600</string>
+						<string>Site Title - Letter Spacing.0</string>
+						<string>Site Title - Mobile Font Size.1 +</string>
+						<string>Slide Out Nav - Font Size.1 +</string>
+						<string>Theme Tools.Animate Page Load</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+						<string>Theme Tools.Navigation Uppercase</string>
+						<string>Theme Tools.Reveal Current Nav Path</string>
+						<string>Theme Tools.Show Cartloom Viewcart</string>
+						<string>Theme Tools.Site Title Uppercase</string>
+					</array>
+					<key>N Spire</key>
+					<array>
+						<string>Background.1</string>
+						<string>Banner Image.x (slideshow)</string>
+						<string>Banner Size.No Banner</string>
+						<string>Menu List Style.01, 02, 03</string>
+						<string>Tools.N Spire 1.5.7</string>
+					</array>
+					<key>N Spire Deux</key>
+					<array>
+						<string>Background Image.Image 2</string>
+						<string>Footer Background Opacity %.80</string>
+						<string>Footer Font Weight.700</string>
+						<string>Main Content Background Opacity %.95</string>
+						<string>Main Content Font Size.1 +</string>
+						<string>Main Content Heading Font Weight.500</string>
+						<string>Max Site Width.1000</string>
+						<string>Navigation Background Opacity %.70</string>
+						<string>Navigation Font Size.0</string>
+						<string>Sidebar Background Opacity %.90</string>
+						<string>Sidebar Font Size.2 +</string>
+						<string>Sidebar Mobile Placement.Below Main Content</string>
+						<string>Sidebar Title Font Size.1 -</string>
+						<string>Sidebar Title Font Weight.500</string>
+						<string>Site Slogan Font Weight.300</string>
+						<string>Site Title Font Size (Desktop).0</string>
+						<string>Site Title Font Size (Phone).0</string>
+						<string>Site Title Font Size (Tablet).0</string>
+						<string>Site Title Font Weight.500</string>
+						<string>Site Title Letter Spacing (Desktop).0</string>
+						<string>Theme Tools.Dark Breadcrumb Background</string>
+						<string>Theme Tools.Load Responsive Tools</string>
+						<string>Theme Tools.Show Full Nav Path</string>
+						<string>Theme Tools.Sticky Site Title (Desktop)</string>
+						<string>Uppercase Text.Breadcrumb</string>
+						<string>Uppercase Text.Footer</string>
+						<string>Uppercase Text.Navigation</string>
+						<string>Uppercase Text.Site Title</string>
+					</array>
+					<key>Offroad Copy</key>
+					<array>
+						<string>Background overlay.80% opacity</string>
+						<string>Background.Use background image</string>
+						<string>Blur background on scroll.Blur</string>
+						<string>Desktop navigation.Main colour</string>
+						<string>Global colours.Main</string>
+						<string>Photo album.Show captions</string>
+						<string>Sidebar.Right</string>
+						<string>Site description.Visible</string>
+						<string>Site title.Show site title</string>
+					</array>
+					<key>Royale</key>
+					<array>
+						<string>Banner - Animation.Fade In Right</string>
+						<string>Banner - Position.Offset + Shadow</string>
+						<string>Banner - Position.Offset + Shadow 50%</string>
+						<string>Banner - Slogan Font Size.1 +</string>
+						<string>Banner - Slogan Size.0</string>
+						<string>Banner - Slogan Style.Text + Tint Gradient 50%</string>
+						<string>Banner - Slogan Style.Text + Tint Gradient 60%</string>
+						<string>Banner - Type.HTML5 or Embed Video</string>
+						<string>Banner Heading - Max Width.1200px</string>
+						<string>Featured Nav - Font Size.0</string>
+						<string>Featured Nav - Text Size.0</string>
+						<string>Header - Font Family.Montserrat</string>
+						<string>Main Content - Font Family.Open Sans</string>
+						<string>Main Content - Font Size.0</string>
+						<string>Main Content - Heading Font Family.Montserrat</string>
+						<string>Main Content - Heading Font Size.1 -</string>
+						<string>Main Content - Heading Font Weight.600</string>
+						<string>Main Content - Heading Size.0</string>
+						<string>Main Content - Heading Weight.600</string>
+						<string>Main Content - Max Width.1020px</string>
+						<string>Main Content - Text Size.1 +</string>
+						<string>Sidebar Content - Position.Left</string>
+						<string>Site Title - Font Size.1 +</string>
+						<string>Site Title - Font Weight.500</string>
+						<string>Slide Out Nav - Font Size.1 +</string>
+						<string>Slide Out Nav - Text Size.0</string>
+						<string>Theme Tools.Hide Banner Slogan Tint</string>
+						<string>Theme Tools.Hide Contact Link (Desktop)</string>
+						<string>Theme Tools.Load Repsonsive Tools</string>
+					</array>
+					<key>Voyager</key>
+					<array>
+						<string>Banner Height.540 px</string>
+						<string>Body Text.Open Sans</string>
+						<string>Breadcrumb Trail.Translucent White Presets</string>
+						<string>Content Width.1,170px</string>
+						<string>Headers.Fjalla One</string>
+						<string>Navigation Overlay.Translucent Black</string>
+						<string>Sidebar.Right-hand Side</string>
+						<string>Site Slogan.Fjalla One</string>
+						<string>Site Title Divider.Light</string>
+						<string>Site Title.Fjalla One</string>
+						<string>Theme Toggles.Show Site Title in Navigation Overlay</string>
+						<string>Theme Toggles.Uppercase Site Title</string>
+						<string>Theme Toggles.Uppercase Slogan</string>
+					</array>
+					<key>Voyager Copy</key>
+					<array>
+						<string>Banner Height.540 px</string>
+						<string>Body Text.Open Sans</string>
+						<string>Breadcrumb Trail.Translucent White Presets</string>
+						<string>Content Width.1,170px</string>
+						<string>Headers.Fjalla One</string>
+						<string>Navigation Overlay.Translucent Black</string>
+						<string>Sidebar.Right-hand Side</string>
+						<string>Site Slogan.Fjalla One</string>
+						<string>Site Title Divider.Light</string>
+						<string>Site Title.Fjalla One</string>
+						<string>Theme Toggles.Show Site Title in Navigation Overlay</string>
+						<string>Theme Toggles.Uppercase Site Title</string>
+						<string>Theme Toggles.Uppercase Slogan</string>
+					</array>
+					<key>Writer</key>
+					<array>
+						<string>Content Heading Size.1 -</string>
+						<string>Content Line Height.0</string>
+						<string>Content Text Size.0</string>
+						<string>Header Bottom Padding.18%</string>
+						<string>Header Color Opacity.0.8</string>
+						<string>Header Image.Stock 6</string>
+						<string>Header Nav Bar Opacity.1.0</string>
+						<string>Header Top Padding.13%</string>
+						<string>Max Site Width.1000px</string>
+						<string>Navigation Font Size.1 -</string>
+						<string>Sidebar Position.Right 250px</string>
+						<string>Sidebar Text Size.1 -</string>
+						<string>Sidebar Title Size.1 -</string>
+						<string>Site Logo Max Width.200px</string>
+						<string>Site Logo Min Width.150px</string>
+						<string>Site Slogan Font Size.0</string>
+						<string>Site Slogan Max Width.700px</string>
+						<string>Site Title Font Size.0</string>
+					</array>
+				</dict>
+				<key>Variables</key>
+				<dict>
+					<key>%aside_breakpoint%</key>
+					<string>770</string>
+					<key>%aside_font_size%</key>
+					<string>16</string>
+					<key>%aside_headings_bottom_margin%</key>
+					<string>3</string>
+					<key>%aside_headings_font_size%</key>
+					<string>7</string>
+					<key>%aside_offset%</key>
+					<string>-170</string>
+					<key>%aside_pad_bottom%</key>
+					<string>0</string>
+					<key>%aside_pad_bottom_mobile%</key>
+					<string>0</string>
+					<key>%aside_pad_right%</key>
+					<string>0</string>
+					<key>%aside_pad_right_mobile%</key>
+					<string>75</string>
+					<key>%aside_pad_top_mobile%</key>
+					<string>50</string>
+					<key>%aside_split%</key>
+					<string>50</string>
+					<key>%banner_bottom_padding%</key>
+					<string>0</string>
+					<key>%banner_bottom_padding_mobile%</key>
+					<string>0</string>
+					<key>%copyright_font_size%</key>
+					<string>24</string>
+					<key>%copyright_offset%</key>
+					<string>0</string>
+					<key>%footer_pad_bottom%</key>
+					<string>40</string>
+					<key>%footer_pad_top%</key>
+					<string>40</string>
+					<key>%main_content_max_width%</key>
+					<string>1000</string>
+					<key>%nav_font_size%</key>
+					<string>23</string>
+					<key>%nav_margin_bottom%</key>
+					<string>40</string>
+					<key>%site_logo_desk_max_width%</key>
+					<string>100</string>
+					<key>%site_logo_mob_max_width%</key>
+					<string>75</string>
+					<key>%site_slogan_desk_font_size%</key>
+					<string>32</string>
+					<key>%site_slogan_top_padding%</key>
+					<string>100</string>
+					<key>%site_title_desk_font_size%</key>
+					<string>7</string>
+					<key>%site_title_letter_spacing%</key>
+					<string>2</string>
+					<key>%site_title_line_height%</key>
+					<string>1</string>
+					<key>%site_title_max_width%</key>
+					<string>800</string>
+					<key>%site_title_mob_font_size%</key>
+					<string>9</string>
+					<key>%site_title_top_spacing%</key>
+					<string>2</string>
+					<key>%site_width%</key>
+					<string>1000</string>
+					<key>%social_icons_offset%</key>
+					<string>-30</string>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

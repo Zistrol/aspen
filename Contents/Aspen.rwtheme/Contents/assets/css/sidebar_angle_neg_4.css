@@ -1,0 +1,14 @@
+.break_degree {
+position: relative;
+height: 140px;
+overflow: hidden;
+}
+.break_degree > div {
+height: 150px;
+transform: rotate(-4deg);
+position: absolute;
+top: -80px;
+left: -20px;
+right: -20px;
+z-index: 1;
+}

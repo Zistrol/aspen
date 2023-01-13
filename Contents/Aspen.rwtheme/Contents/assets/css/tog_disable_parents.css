@@ -1,0 +1,2 @@
+#config_theme{padding-left: 1px;}
+body:not(.nav_sticky) .li_parent > a{pointer-events: none;}

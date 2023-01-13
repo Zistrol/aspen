@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Creator</key>
+	<string></string>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BannerAltText</key>
+				<string>Audio and video camera</string>
+				<key>BannerIdentifier</key>
+				<string>B1835045-66C2-4A34-A275-01E531EFF0FE</string>
+				<key>BrowserTitle</key>
+				<string>Responsive Video Player - Aspen RapidWeaver 8 Theme</string>
+				<key>CreatedDate</key>
+				<date>2019-02-10T22:57:57Z</date>
+				<key>CustomThemeName</key>
+				<string>Aspen</string>
+				<key>ID</key>
+				<string>page3</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Audio &amp; Video Players</string>
+				<key>PluginClassName</key>
+				<string>RWStyledPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Styled Text</string>
+					<key>Version</key>
+					<string>7.0</string>
+				</dict>
+				<key>PublishingManifests</key>
+				<dict>
+					<key>file:///Users/burton/websites/Aspen/</key>
+					<dict>
+						<key>CreationDate</key>
+						<date>2021-08-14T00:12:15Z</date>
+						<key>DigestAlgorithm</key>
+						<string>MD5</string>
+						<key>PageDigests</key>
+						<dict>
+							<key>index.html</key>
+							<dict>
+								<key>Digest</key>
+								<data>
+								RBLX0ky02Ixt
+								0P8InAoqog==
+								</data>
+								<key>Size</key>
+								<integer>7383</integer>
+							</dict>
+						</dict>
+						<key>PageID</key>
+						<string>page3</string>
+						<key>SiteRoot</key>
+						<string>tools/audio-video-player</string>
+						<key>Version</key>
+						<integer>3</integer>
+					</dict>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Data.archive</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

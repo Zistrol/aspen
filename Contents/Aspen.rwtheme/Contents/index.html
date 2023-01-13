@@ -1,0 +1,93 @@
+<!doctype html>  
+<html>
+<head>
+
+	<!-- Aspen 2.0.0 -->
+
+	%header%
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="baseurl" content="%base_url%">
+	<title>%title%</title>
+	<link rel="stylesheet" href="%pathto(assets/css/styles.css)%">
+	<link rel="stylesheet" href="%pathto(colour_tags.css)%">
+	%style_variations%
+	%user_styles%
+	%plugin_header%
+	%user_header%
+</head>
+<body>
+  <div class="figure_bg">
+    <div class="figure_cropping">
+      <div class="figure-container parallax">
+        <div id="theme_input">%site_slogan%</div>
+        <img src="%banner_path%" alt="%banner_alternate_text%">
+      </div>
+    </div><!-- Figure Crop -->
+    <figure class="theme max_width_wrap">
+      <header class="theme cf" data-baseurl="%base_url%">
+        %logo%
+        <div class="nav_btn offest"></div>
+        <div class="nav_expand">
+          <div class="nav_close">+</div>
+          <nav class="theme offest cf">
+            %navigation%
+          </nav>
+        </div>
+        <div class="float_right contact_info">
+          <ul>
+            <li class="special-li">
+              %footer%
+              <a class="cartloom-viewcart">
+                <span class="cartloom-cart-count">0</span>
+                <span class="social-bag"></span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </header>
+      <section class="main_heading offest cf">
+        <h1 class="site_title">%site_title%</h1>
+        <div class="heading_break">
+          %breadcrumb%
+          <div class="social_icons">
+            <ul>
+            </ul>
+          </div>
+          <span class="theme_scroll_btn">
+            <a href="#">
+              <span class="mouse">
+                <span>
+                </span>
+              </span>
+            </a>
+          </span>
+        </div>
+      </section>
+    </figure>
+  </div>
+  <aside class="theme max_width_wrap cf">
+    <div class="col_a"></div>
+    <div class="col_b">
+      <div class="inner_content">
+        <h2 class="site_slogan">%sidebar_title%</h2>
+        %sidebar%
+      </div>
+    </div>
+  </aside>
+  <div class="break_degree"><div></div></div>
+  <main class="theme cf">
+    <div class="max_width_wrap_content">
+      %content%
+      %plugin_sidebar%
+    </div>
+  </main>
+  <footer class="theme max_width_wrap_content cf">
+    <div class="float_left">%footer%</div>
+    <div class="float_right"></div>
+  </footer>
+  <div id="config_theme"></div>
+  <script>window.jQuery || document.write('<script src="%pathto(assets/js/jquery.js)%">\x3C/script>')</script>
+  <script type="text/javascript" src="%pathto(assets/js/function-min.js)%"></script>
+</body>
+</html>

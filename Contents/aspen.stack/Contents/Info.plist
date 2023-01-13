@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.nickcatesdesign.stacks.aspensplit</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>RWAddonAuthor</key>
+	<string>Nick Cates Design</string>
+	<key>RWAddonManagerIconAsset</key>
+	<string>icon</string>
+	<key>RWAddonSupportURL</key>
+	<string>http://nickcatesdesign.com/rapidweaver/support/</string>
+	<key>customItems</key>
+	<array>
+		<dict>
+			<key>default</key>
+			<string>left</string>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>align</string>
+			<key>items</key>
+			<array>
+				<dict>
+					<key>title</key>
+					<string>Left</string>
+					<key>value</key>
+					<string>left</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Center</string>
+					<key>value</key>
+					<string>center</string>
+				</dict>
+				<dict>
+					<key>title</key>
+					<string>Right</string>
+					<key>value</key>
+					<string>right</string>
+				</dict>
+			</array>
+			<key>title</key>
+			<string>Content Align</string>
+			<key>type</key>
+			<string>select</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<true/>
+			<key>falseValue</key>
+			<false/>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>theme_padding</string>
+			<key>title</key>
+			<string>Inherit Site Padding</string>
+			<key>trueValue</key>
+			<true/>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<string>770</string>
+			<key>enable</key>
+			<dict>
+				<key>id</key>
+				<string>theme_padding</string>
+				<key>value</key>
+				<false/>
+			</dict>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>limit_format</string>
+			<key>title</key>
+			<string>Mobile Break</string>
+			<key>toolTip</key>
+			<string></string>
+			<key>type</key>
+			<string>number</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>enable</key>
+			<dict>
+				<key>id</key>
+				<string>theme_padding</string>
+				<key>value</key>
+				<false/>
+			</dict>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>desk_pad</string>
+			<key>subtitles</key>
+			<array>
+				<string>Top</string>
+				<string>Bottom</string>
+				<string>Left</string>
+				<string>Right</string>
+			</array>
+			<key>title</key>
+			<string>Desk Padding</string>
+			<key>type</key>
+			<string>number-4</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<array>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+				<string>0</string>
+			</array>
+			<key>enable</key>
+			<dict>
+				<key>id</key>
+				<string>theme_padding</string>
+				<key>value</key>
+				<false/>
+			</dict>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>mob_pad</string>
+			<key>subtitles</key>
+			<array>
+				<string>Top</string>
+				<string>Bottom</string>
+				<string>Left</string>
+				<string>Right</string>
+			</array>
+			<key>title</key>
+			<string>Mobile Padding</string>
+			<key>type</key>
+			<string>number-4</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<true/>
+			<key>falseValue</key>
+			<false/>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>theme_width</string>
+			<key>title</key>
+			<string>Inherit Site Width</string>
+			<key>trueValue</key>
+			<true/>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<string></string>
+			<key>enable</key>
+			<dict>
+				<key>id</key>
+				<string>theme_width</string>
+				<key>value</key>
+				<false/>
+			</dict>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>max-width</string>
+			<key>title</key>
+			<string>Max Width</string>
+			<key>toolTip</key>
+			<string>...</string>
+			<key>type</key>
+			<string>number</string>
+		</dict>
+		<dict>
+			<key>group</key>
+			<string>Section Background</string>
+			<key>id</key>
+			<string>imgFull</string>
+			<key>title</key>
+			<string>Background Image</string>
+			<key>type</key>
+			<string>image</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<false/>
+			<key>falseValue</key>
+			<string></string>
+			<key>group</key>
+			<string>Section Background</string>
+			<key>id</key>
+			<string>img_scale</string>
+			<key>title</key>
+			<string>Scale Image</string>
+			<key>trueValue</key>
+			<string>background-size: cover;</string>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<true/>
+			<key>falseValue</key>
+			<false/>
+			<key>group</key>
+			<string>Section Background</string>
+			<key>id</key>
+			<string>img_scroll</string>
+			<key>title</key>
+			<string>Scroll Effect</string>
+			<key>trueValue</key>
+			<true/>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<true/>
+			<key>falseValue</key>
+			<false/>
+			<key>group</key>
+			<string>Section Background</string>
+			<key>id</key>
+			<string>img_opacity</string>
+			<key>title</key>
+			<string>Image Opacity</string>
+			<key>trueValue</key>
+			<true/>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<string>3</string>
+			<key>enable</key>
+			<dict>
+				<key>id</key>
+				<string>img_opacity</string>
+				<key>value</key>
+				<true/>
+			</dict>
+			<key>group</key>
+			<string>Section Background</string>
+			<key>id</key>
+			<string>img_op</string>
+			<key>max</key>
+			<integer>9</integer>
+			<key>min</key>
+			<integer>0</integer>
+			<key>round</key>
+			<true/>
+			<key>snap</key>
+			<true/>
+			<key>ticks</key>
+			<integer>10</integer>
+			<key>title</key>
+			<string>Image Opacity</string>
+			<key>type</key>
+			<string>slider</string>
+			<key>units</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<string>15</string>
+			<key>group</key>
+			<string>Section Layout</string>
+			<key>id</key>
+			<string>font_size</string>
+			<key>title</key>
+			<string>Font Size</string>
+			<key>toolTip</key>
+			<string></string>
+			<key>type</key>
+			<string>number</string>
+		</dict>
+		<dict>
+			<key>allowsOpacity</key>
+			<true/>
+			<key>default</key>
+			<array>
+				<string>#000000</string>
+				<string>#333333</string>
+				<string>inherit</string>
+				<string>inherit</string>
+			</array>
+			<key>group</key>
+			<string>Section Colors</string>
+			<key>id</key>
+			<string>split_color</string>
+			<key>subtitles</key>
+			<array>
+				<string>Text</string>
+				<string>H Tags</string>
+				<string>Links</string>
+				<string>Lnk Hvr</string>
+			</array>
+			<key>title</key>
+			<string>Text Colors</string>
+			<key>type</key>
+			<string>color-4</string>
+		</dict>
+		<dict>
+			<key>allowsOpacity</key>
+			<true/>
+			<key>default</key>
+			<array>
+				<string>#FFFFFF</string>
+				<string>#FFFFFF</string>
+			</array>
+			<key>group</key>
+			<string>Section Colors</string>
+			<key>id</key>
+			<string>split_color_b</string>
+			<key>subtitles</key>
+			<array>
+				<string>Grad Start</string>
+				<string>Grad End</string>
+			</array>
+			<key>title</key>
+			<string>Background</string>
+			<key>type</key>
+			<string>color-2</string>
+		</dict>
+		<dict>
+			<key>default</key>
+			<false/>
+			<key>falseValue</key>
+			<string>bottom</string>
+			<key>group</key>
+			<string>Section Colors</string>
+			<key>id</key>
+			<string>grad</string>
+			<key>title</key>
+			<string>Gradient Left &gt; Right</string>
+			<key>trueValue</key>
+			<string>right</string>
+			<key>type</key>
+			<string>checkbox</string>
+		</dict>
+	</array>
+	<key>group</key>
+	<string>Nick Cates Design</string>
+	<key>icon</key>
+	<string>icon</string>
+	<key>inline</key>
+	<true/>
+	<key>minAPIVersion</key>
+	<integer>3</integer>
+	<key>subtitle</key>
+	<string>Split the content area of the Aspen theme.</string>
+	<key>tags</key>
+	<array>
+		<string>Aspen Theme</string>
+		<string>Theme</string>
+		<string>Aspen</string>
+	</array>
+	<key>templates</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>template.html</string>
+			<key>type</key>
+			<string>html</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>aspen_split.css</string>
+			<key>type</key>
+			<string>css</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Split</string>
+</dict>
+</plist>

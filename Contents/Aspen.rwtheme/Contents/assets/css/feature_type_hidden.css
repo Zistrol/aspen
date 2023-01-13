@@ -1,0 +1,20 @@
+figure.theme img{display: none;}
+figure.theme{opacity: 0 !important;}
+figure.theme:before{
+	content: '';
+	display: block;
+	padding-top: 19%;
+	position: relative;
+}
+.dia_parent .diagonal{padding: 5.5vw 30px;}
+
+@media screen and (min-width: 800px) {
+	figure.theme:before{padding-top: 16%;}
+}
+@media screen and (max-width: 800px) {
+	header.theme a.branding{padding-top: 3vw;}
+}
+@media screen and (max-width: 480px) {
+	figure.theme:before{padding-top: 9%;}
+	.site_slogan{margin: 5px 0 5px;}
+}

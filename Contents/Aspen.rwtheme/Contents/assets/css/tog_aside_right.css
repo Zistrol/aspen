@@ -1,0 +1,6 @@
+@media (min-width: %aside_breakpoint%) {
+	aside.theme .col_a {
+		float: right;
+		padding-right: 100px;
+	}
+}
