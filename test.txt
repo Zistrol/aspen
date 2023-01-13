@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a test to start learning GitHub
 This is another change that I made
+=======
+This is a test to start learning GitHub
+>>>>>>> main
